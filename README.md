@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishan Vaghela</h1>
+<h1 align="center">Hi 👋, I'm Ishan Bhadresh Vaghela</h1>
 <h3 align="center">
   A Results-Driven Software Engineer with Expertise in Java, Golang, and Rust — Specializing in Scalable Microservices, Cloud-Native Applications, and Modern DevOps Practices
 </h3>
